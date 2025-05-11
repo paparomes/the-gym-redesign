@@ -1,0 +1,20 @@
+URL: https://thegym.amsterdam/en/personal-training 
+
+template-used: /customers/c/1/9/ckfa8eh95/webroots/sites/webspace/httpdocs/thegym.amsterdam/wp-content/themes/the_gym/page.php
+viewport: width=device-width, initial-scale=1
+og:image: https://thegym.amsterdam/wp-content/uploads/2021/06/The-Gym-Amsterdam-personal-training-2.jpeg
+robots: index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1
+description: Op zoek naar personal training? Dan ben je bij The Gym Amsterdam in Amsterdam-Zuid aan het juiste adres. Kom bij ons langs voor een gratis intake.
+og:locale: en_US
+og:type: article
+og:title: Personal training | The Gym Amsterdam
+og:description: Op zoek naar personal training? Dan ben je bij The Gym Amsterdam in Amsterdam-Zuid aan het juiste adres. Kom bij ons langs voor een gratis intake.
+og:url: https://thegym.amsterdam/en/personal-training/
+og:site_name: The Gym
+article:modified_time: 2023-04-07T07:47:30+00:00
+og:image:width: 1022
+og:image:height: 360
+og:image:type: image/jpeg
+twitter:card: summary_large_image
+generator: Elementor 3.22.3; features: e_optimized_assets_loading, e_optimized_css_loading, e_font_icon_svg, additional_custom_breakpoints, e_lazyload; settings: css_print_method-external, google_font-enabled, font_display-swap
+msapplication-TileImage: https://thegym.amsterdam/wp-content/uploads/2018/09/cropped-Logo_TheGym-270x270.png

@@ -1,0 +1,15 @@
+URL: https://thegym.amsterdam/en
+
+viewport: width=device-width, initial-scale=1
+robots: index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1
+description: The Gym Amsterdam is een high-end personal training club gelegen aan de Ruysdaelkade 161 in Amsterdam-Zuid. Meld je nu aan!
+og:locale: en_US
+og:type: website
+og:title: The Gym Amsterdam
+og:description: The Gym Amsterdam is een high-end personal training club gelegen aan de Ruysdaelkade 171 in Amsterdam-Zuid
+og:url: https://thegym.amsterdam/en/
+og:site_name: The Gym
+article:modified_time: 2024-05-25T11:22:03+00:00
+twitter:card: summary_large_image
+generator: Elementor 3.22.3; features: e_optimized_assets_loading, e_optimized_css_loading, e_font_icon_svg, additional_custom_breakpoints, e_lazyload; settings: css_print_method-external, google_font-enabled, font_display-swap
+msapplication-TileImage: https://thegym.amsterdam/wp-content/uploads/2018/09/cropped-Logo_TheGym-270x270.png

@@ -1,0 +1,16 @@
+URL: https://thegym.amsterdam/en/about-us/
+
+viewport: width=device-width, initial-scale=1
+robots: index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1
+description: Een intieme omgeving om te trainen om jouw gewenste resultaten te behalen.
+og:locale: en_US
+og:type: article
+og:title: Personal Trainingen - The Gym Amsterdam
+og:description: Een intieme omgeving om te trainen om jouw gewenste resultaten te behalen.
+og:url: https://thegym.amsterdam/en/about-us/
+og:site_name: The Gym
+article:modified_time: 2023-04-07T07:47:30+00:00
+og:image: https://thegym.amsterdam/wp-content/uploads/2016/05/Trainers_TheGymAmsterdam.jpg
+twitter:card: summary_large_image
+generator: Elementor 3.22.3; features: e_optimized_assets_loading, e_optimized_css_loading, e_font_icon_svg, additional_custom_breakpoints, e_lazyload; settings: css_print_method-external, google_font-enabled, font_display-swap
+msapplication-TileImage: https://thegym.amsterdam/wp-content/uploads/2018/09/cropped-Logo_TheGym-270x270.png
